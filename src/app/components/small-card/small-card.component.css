@@ -1,0 +1,12 @@
+.container__small-card > div {
+  display: flex;
+  align-items: center;
+
+  color: white;
+  gap: 16px;
+  padding: 12px 0px;
+}
+
+.small-card__picture > img {
+  margin-right: 20px;
+}

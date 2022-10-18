@@ -1,0 +1,22 @@
+.container__menu-bar > ul {
+  display: flex;
+  flex-direction: row;
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 15px 0px;
+}
+
+.container__menu-bar > ul li {
+  margin-right: 20px;
+  color: white;
+  list-style: none;
+}
+.container__menu-bar > ul li a {
+  text-decoration: none;
+  color: white;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
